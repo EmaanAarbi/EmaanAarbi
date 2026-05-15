@@ -17,7 +17,7 @@ from JWT-secured Django REST backends to component-based React frontends.
 | [Task REST API](https://github.com/EmaanAarbi/taskapp) | Python · MVC · Postman | 8-endpoint REST API with layered error handling |
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-emaan--aarbi-blue)](https://linkedin.com/in/emaan-aarbi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-emaan--aarbi-blue)](https://www.linkedin.com/in/emaan-aarbi-b254712a7/)
 [![Email](https://img.shields.io/badge/Email-emaan.aarbi%40gmail.com-red)](mailto:emaan.aarbi@gmail.com)
 
 ## Bio: 
