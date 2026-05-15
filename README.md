@@ -11,7 +11,7 @@ from JWT-secured Django REST backends to component-based React frontends.
 ## 📌 Featured Projects
 | Project | Stack | What it does |
 |---|---|---|
-| [Task Management System](https://github.com/EmaanAarbi/Task-Management-System-Full-Stack-Django-React) | Django · React · JWT | Full-stack app with RBAC, 12-endpoint API, search & pagination |
+| [FlowTask](https://github.com/EmaanAarbi/Task-Management-System-Full-Stack-Django-React) | Django · React · JWT | Full-stack app with RBAC, 12-endpoint API, search & pagination |
 | [YouTube Summarizer](https://github.com/EmaanAarbi/Youtube_Video_Summarizer) | Whisper · Gemini · Streamlit | 3-stage AI pipeline: audio → transcript → structured summary |
 | [AI Resume Optimizer](https://github.com/EmaanAarbi/AI_Resume_Optimizer) | Gemini LLM · NLP · Streamlit | Parses PDF/DOCX, runs keyword gap analysis vs job descriptions |
 | [Task REST API](https://github.com/EmaanAarbi/taskapp) | Python · MVC · Postman | 8-endpoint REST API with layered error handling |
