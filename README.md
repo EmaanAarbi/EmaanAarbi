@@ -26,3 +26,6 @@ Full-Stack & AI Developer · Django · React · LLM Pipelines · CS @ GCWUF
 Faisalabad, Pakistan
 ## Website/URL: 
 (https://www.linkedin.com/in/emaan-aarbi-b254712a7/)
+##Portfolio/URL:
+(https://emaanaarbi.github.io/)
+
