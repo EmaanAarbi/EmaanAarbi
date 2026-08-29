@@ -1,32 +1,45 @@
 # Emaan Aarbi
-**Full-Stack & AI Developer · CS @ GCWUF (3.83 CGPA)**
 
-I build end-to-end web applications and AI-integrated tools —
-from JWT-secured Django REST backends to component-based React frontends.
+### Full-Stack & AI Developer
 
-## 🛠 Tech Stack
-`Python` `Django REST` `React.js` `JavaScript` `JWT/RBAC`
-`Gemini LLM` `Whisper ASR` `Prompt Engineering` `SQL` `Git` `Postman`
+Computer Science graduate from GCWUF with a **3.83 CGPA**, building reliable web applications, secure backend systems, and practical AI-powered products.
 
-## 📌 Featured Projects
-| Project | Stack | What it does |
-|---|---|---|
-| [FlowTask](https://github.com/EmaanAarbi/Task-Management-System-Full-Stack-Django-React) | Django · React · JWT | Full-stack app with RBAC, 12-endpoint API, search & pagination |
-| [YouTube Summarizer](https://github.com/EmaanAarbi/Youtube_Video_Summarizer) | Whisper · Gemini · Streamlit | 3-stage AI pipeline: audio → transcript → structured summary |
-| [AI Resume Optimizer](https://github.com/EmaanAarbi/AI_Resume_Optimizer) | Gemini LLM · NLP · Streamlit | Parses PDF/DOCX, runs keyword gap analysis vs job descriptions |
-| [Task REST API](https://github.com/EmaanAarbi/taskapp) | Python · MVC · Postman | 8-endpoint REST API with layered error handling |
+I work across the product stack—from responsive React interfaces and Django REST APIs to authentication, data modeling, document processing, transcription, and LLM integrations. I care about readable code, intentional user experiences, and software that produces measurable results.
 
-## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-emaan--aarbi-blue)](https://www.linkedin.com/in/emaan-aarbi-b254712a7/)
-[![Email](https://img.shields.io/badge/Email-emaan.aarbi%40gmail.com-red)](mailto:emaan.aarbi@gmail.com)
+[View Portfolio](https://emaanaarbi.github.io/) · [LinkedIn](https://www.linkedin.com/in/emaan-aarbi-b254712a7/) · [Email](mailto:emaan.aarbi@gmail.com)
 
-## Bio: 
-Full-Stack & AI Developer · Django · React · LLM Pipelines · CS @ GCWUF
-## Location: 
-Faisalabad, Pakistan
-## Website/URL: 
-(https://www.linkedin.com/in/emaan-aarbi-b254712a7/)
+## Technical Focus
 
-## Portfolio/URL:
-(https://emaanaarbi.github.io/)
+- **Frontend:** React, JavaScript, HTML5, CSS3, responsive UI
+- **Backend:** Python, Django, Django REST Framework, REST APIs
+- **Data & security:** SQL, JWT authentication, role-based access control
+- **Applied AI:** Gemini, Whisper ASR, prompt engineering, NLP workflows
+- **Engineering tools:** Git, GitHub, Postman, Docker
 
+## Featured Projects
+
+| Project | Technologies | Highlights |
+| --- | --- | --- |
+| [FlowTask](https://github.com/EmaanAarbi/Task-Management-System-Full-Stack-Django-React) | Django REST, React, JWT | Full-stack task-management platform with authentication, role-aware workflows, assignment, search, filtering, and pagination. |
+| [YouTube Video Summarizer](https://github.com/EmaanAarbi/Youtube_Video_Summarizer) | Python, Whisper, Gemini, Streamlit | AI pipeline that extracts audio, produces a transcript, and generates structured summaries in multiple formats. |
+| [AI Resume Optimizer](https://github.com/EmaanAarbi/AI_Resume_Optimizer) | Python, Gemini, NLP, Streamlit | Processes PDF and DOCX resumes, evaluates job-description alignment, and generates role-specific improvements. |
+| [Task REST API](https://github.com/EmaanAarbi/taskapp) | Python, REST, Postman | Modular CRUD API with structured routing, controller logic, database integration, validation, and error handling. |
+
+## What I Bring
+
+- End-to-end ownership across frontend, backend, data, and deployment
+- Experience turning AI models into usable product workflows
+- Secure API design with authentication and authorization
+- Clear technical communication and maintainable implementation
+
+## Education
+
+**Bachelor of Science in Computer Science** — Government College Women University Faisalabad<br>
+CGPA: **3.83 / 4.00**
+
+## Contact
+
+- Faisalabad, Pakistan
+- [linkedin.com/in/emaan-aarbi-b254712a7](https://www.linkedin.com/in/emaan-aarbi-b254712a7/)
+- [emaanaarbi.github.io](https://emaanaarbi.github.io/)
+- [emaan.aarbi@gmail.com](mailto:emaan.aarbi@gmail.com)
