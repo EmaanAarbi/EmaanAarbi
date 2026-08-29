@@ -16,11 +16,13 @@ I work across the product stack—from responsive React interfaces and Django RE
 - **Applied AI:** Gemini, Whisper ASR, prompt engineering, NLP workflows
 - **Engineering tools:** Git, GitHub, Postman, Docker
 
-## Featured Projects
+## Recent & Featured Projects
 
 | Project | Technologies | Highlights |
 | --- | --- | --- |
-| [FlowTask](https://github.com/EmaanAarbi/Task-Management-System-Full-Stack-Django-React) | Django REST, React, JWT | Full-stack task-management platform with authentication, role-aware workflows, assignment, search, filtering, and pagination. |
+| [PromptLab](https://promptlab-evaluation-dashboard.emaan-aarbi.chatgpt.site) | React, JavaScript, Cloudflare D1 | AI evaluation workspace for repeated prompt runs, deterministic checks, human scoring, LLM judging, latency, tokens, cost, and reliability. |
+| [Multi-Model LLM Comparator](https://multi-model-llm-comparator.vercel.app) | Python, JavaScript, Docker | Compares OpenAI, Gemini, and Claude on identical prompts across response quality, latency, token usage, estimated cost, and reliability. |
+| [FlowTask](https://github.com/EmaanAarbi/FlowTask) | Django REST, React, JWT | Full-stack task-management platform with authentication, role-aware workflows, assignment, search, filtering, and pagination. |
 | [YouTube Video Summarizer](https://github.com/EmaanAarbi/Youtube_Video_Summarizer) | Python, Whisper, Gemini, Streamlit | AI pipeline that extracts audio, produces a transcript, and generates structured summaries in multiple formats. |
 | [AI Resume Optimizer](https://github.com/EmaanAarbi/AI_Resume_Optimizer) | Python, Gemini, NLP, Streamlit | Processes PDF and DOCX resumes, evaluates job-description alignment, and generates role-specific improvements. |
 | [Task REST API](https://github.com/EmaanAarbi/taskapp) | Python, REST, Postman | Modular CRUD API with structured routing, controller logic, database integration, validation, and error handling. |
