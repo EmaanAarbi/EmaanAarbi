@@ -1,5 +1,5 @@
 # Emaan Aarbi
-**Full-Stack & AI Developer · CS @ GCWUF (3.83 GPA)**
+**Full-Stack & AI Developer · CS @ GCWUF (3.83 CGPA)**
 
 I build end-to-end web applications and AI-integrated tools —
 from JWT-secured Django REST backends to component-based React frontends.
